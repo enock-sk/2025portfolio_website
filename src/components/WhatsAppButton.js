@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 
 export default function WhatsAppButton() {
-  const phoneNumber = '+254123456789'; // Update with your real number
+  const phoneNumber = '+254724860844'; // Update with your real number
   const message = encodeURIComponent("Hi Enock, I’d like to discuss a project!");
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${message}`;
 
