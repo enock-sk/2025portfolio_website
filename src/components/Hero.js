@@ -42,8 +42,8 @@ export default function Hero() {
             Hire Me
           </motion.a>
           <motion.a
-            href="/Enock_Kiplangat_CV.pdf"
-            download="Enock_Kiplangat_CV.pdf"
+            href="/public/Mr Sang Enock.pdf"
+            download="/public/Mr Sang Enock.pdf"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             className="bg-transparent border border-indigo-400 dark:border-indigo-500 text-indigo-400 dark:text-indigo-500 px-8 py-3 rounded-full font-semibold hover:bg-indigo-400/10 dark:hover:bg-indigo-500/10 transition-colors"
