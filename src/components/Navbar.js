@@ -14,8 +14,8 @@ export default function Navbar({ toggleTheme, isDarkMode }) {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <motion.div whileHover={{ scale: 1.05 }} className="flex-shrink-0">
-            <span className="text-2xl font-extrabold text-white dark:text-gray-900 tracking-tight">
-              Enock Kiplangat
+            <span className="text-2xl font-extrabold text-orange-600 dark:text-gray-900 tracking-tight">
+              Enock K
             </span>
           </motion.div>
           <div className="hidden md:flex space-x-8 items-center">
