@@ -3,17 +3,17 @@ import { motion } from 'framer-motion';
 export default function Testimonials() {
   const testimonials = [
     {
-      name: "Jane Doe",
-      role: "IT Manager, NHIF",
+      name: "Mr Darlingthon Getuno",
+      role: "ICT Officer, NHIF",
       quote: "Enock’s work on our IT infrastructure was exceptional—reliable, innovative, and ahead of the curve.",
     },
     {
-      name: "John Smith",
+      name: "Cheruiyot Meshack",
       role: "Client, Freelance Project",
       quote: "The Android app Enock built for us exceeded expectations with its AI features and smooth performance.",
     },
     {
-      name: "Alice Kimani",
+      name: "Nehemiah Sigei",
       role: "Tech Startup Founder",
       quote: "His 3D motion graphics brought our product launch to life—professional and creative!",
     },

@@ -2,9 +2,9 @@ import { motion } from 'framer-motion';
 
 export default function Hero() {
   const stats = [
-    { label: "Projects Completed", value: 5 },
+    { label: "Projects Completed", value: 20 },
     { label: "Years Experience", value: 3 },
-    { label: "Clients Served", value: 10 },
+    { label: "Clients Served", value: 15 },
   ];
 
   return (
@@ -30,7 +30,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-lg sm:text-xl md:text-2xl mb-8 max-w-3xl mx-auto font-light text-gray-300 dark:text-gray-700"
         >
-          IT Innovator | Full-Stack Developer | Cybersecurity & AI Specialist
+          IT Innovator | Full-Stack Developer | Fintech & Bitcoin Developer
         </motion.p>
         <div className="flex justify-center space-x-4 mb-12">
           <motion.a
